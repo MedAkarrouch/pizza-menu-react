@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MedAkarrouch/pizza-menu-react/static/css/main.f7790c19.css",
+    "main.js": "/MedAkarrouch/pizza-menu-react/static/js/main.f1ad0f88.js",
+    "index.html": "/MedAkarrouch/pizza-menu-react/index.html",
+    "main.f7790c19.css.map": "/MedAkarrouch/pizza-menu-react/static/css/main.f7790c19.css.map",
+    "main.f1ad0f88.js.map": "/MedAkarrouch/pizza-menu-react/static/js/main.f1ad0f88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7790c19.css",
+    "static/js/main.f1ad0f88.js"
+  ]
+}
